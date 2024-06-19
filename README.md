@@ -1,4 +1,9 @@
 ## Hi there 👋
+재미있는 개발을 위해 CS를 배우고 있습니다.
+
+## Stack
+![Static Badge](https://img.shields.io/badge/JS-JavaScript-%23F7DF1E?logo=javascript)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
 
 <!--
 **Genticca/Genticca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
