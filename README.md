@@ -1,21 +1,15 @@
-## Hi there 👋
-재미있는 개발을 위해 CS를 배우고 있습니다.
+## About Me
+I always try to understand how things work when I’m learning something new.  
+I first got interested in security through web security, and now I’m diving into AI security too.
 
-## Stack
-![Static Badge](https://img.shields.io/badge/JS-JavaScript-%23F7DF1E?logo=javascript)
-![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
+## Stack 
+### Experienced
+![Static Badge](https://img.shields.io/badge/NodeJS-JS?logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-Python?logo=python&logoColor=white&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/JAVA-JAVA?logo=openjdk&logoColor=white&color=%23000000)
+![Static Badge](https://img.shields.io/badge/MySQL-MySQL?logo=mysql&logoColor=white&color=%234479A1)
 
-<!--
-**Genticca/Genticca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+![Static Badge](https://img.shields.io/badge/VueJS-VueJS?logo=vuedotjs&logoColor=white&color=%234FC08D)
+![Static Badge](https://img.shields.io/badge/Spring-Spring?logo=spring&logoColor=white&color=%236DB33F)
+![Static Badge](https://img.shields.io/badge/SpringBoot-Spring?logo=springboot&logoColor=white&color=%236DB33F)
