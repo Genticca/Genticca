@@ -1,5 +1,4 @@
 ## About Me
-When learning something new, I always try to understand how it works.  
 I first became interested in security through web security, and now I'm studying LLM security within the field of AI security.  
 To more quickly and accurately understand how things work, I’m currently studying in the Department of Computer Science.
 
